@@ -1,2 +1,2 @@
 # Multimedia
-Projects for the course of Multimedia AUTH
+Projects for the course of Multimedia AUTH \n lol
